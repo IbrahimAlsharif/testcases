@@ -1,5 +1,5 @@
 Feature:
-  <Some interesting description here>
+  Drop off users
 
   Scenario:
     <Some interesting scenario steps here>
